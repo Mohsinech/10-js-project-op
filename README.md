@@ -15,3 +15,7 @@ Since I started learning JavaScript, I've held a fundamental principle about it 
 
 ### About the Project:
 This project is aimed at gaining a foundational understanding of JavaScript operators through practical implementation. It serves as a learning exercise and a stepping stone towards more complex JavaScript applications.
+
+### Viewing the Project:
+To view the project, download the ZIP file or clone it using Git in your preferred IDE or code editor. Open the index.html file in your web browser to see the project in action.
+
